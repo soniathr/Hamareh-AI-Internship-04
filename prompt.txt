@@ -1,0 +1,9 @@
+so we have a bunch of interns coming to our team very soon and something in my mind was to give them their tasks and indtructional guide clearly in github. i had previously seen someone do it and wanna do the same. take a look and then i will share my material
+httpsgithub.commshokrnezhadGenAI_Intensive_Course_by_Google
+
+enter sub folders and links such as
+httpsgithub.commshokrnezhadGenAI_Intensive_Course_by_GoogletreemainDay%201
+
+i wanna do sth similar
+
+
