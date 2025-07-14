@@ -19,7 +19,7 @@
 
 - 📌 [آیین‌نامه رفتاری و کاری](./Guidelines/Code_of_Conduct.md)
 - 🛠️ [منابع ابزارها و مهارت‌های فنی پایه ](./Resources/Self-Study_Tools.md)
-- 🏆 [چارچوب رشد، تشویق و بازخورد](./Recognition_and_Feedback/README.md)
+- 🏆 [چارچوب رشد، تشویق و بازخورد](./Recognition_and_Feedback/Recognition_and_PBL.md)
 
 ---
 
